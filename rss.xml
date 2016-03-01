@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Burgs Blog]]></title>
         <description><![CDATA[Burgs Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 17:32:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 17:37:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shoes... Definitely need to get myself a pair of these]]></title>
+            <description><![CDATA[<article><h1>Shoes... Definitely need to get myself a pair of these</h1><p>You already know that the Air Jordan 4 Premium is set to drop in a blacked-out edition replete with croc-style scales and faux pony hair this month. But that may not even be the most eye-popping colorway of the upgraded model. That title would belong to the "Snakeskin" edition, rumored for a summer launch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e30e9bc70f03d7942902ab9028241de8ed7de61b.jpg"></article>]]></description>
+            <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
+            <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
+            <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spend your money wisely!]]></title>
             <description><![CDATA[<article><h1>Spend your money wisely!</h1><p>When you work hard every single day and there's only so much money left after your regular expenses, you have to make certain it's well spent. Spend your limited funds on what science says will make you happy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df0be91553ddf695b25d4aa756ea93fb56862dd0.jpg"></article>]]></description>
