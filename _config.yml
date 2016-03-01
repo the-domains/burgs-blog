@@ -1,3 +1,16 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1197637
 color:
   saturation: 0.03986207
   brandStrength: 0.4709038
@@ -9,18 +22,5 @@ color:
     - '#6B574B'
     - '#160600'
   lightness: 0.9154696
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.2669173
-typography_spectrum: 0.1197637
+layout_spectrum: 1
 name: Burgs Blog
