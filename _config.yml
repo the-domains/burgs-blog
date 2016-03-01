@@ -1,0 +1,14 @@
+layout_spectrum: 0.155693
+color:
+  saturation: 0.03986207
+  lightness: 0.9154696
+  brandStrength: 0.4709038
+  rhythmicContrast: 0.3761323
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.1197637
+name: Burgs Blog
