@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 06:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 15:44:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
             <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cool way to share music with friends]]></title>
+            <description><![CDATA[<article><h1>Cool way to share music with friends</h1><p>Love it or hate it, there's no denying the screen on the Apple Watch isn't what you'd call "big". In fact, it's rather small. Tiny, even. A Tiny Game of Pong brings the classic '70s arcade hit to Apple's high-tech timepiece.</p><img src="http://uncrate.com/p/2016/02/tiny-pong-apple-watch.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/cool-way-to-share-music-with-friends/index.html</link>
+            <guid isPermaLink="false">4aa57f41-303d-4cd7-bcec-21d3664477d5</guid>
+            <pubDate>Thu, 03 Mar 2016 15:43:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dammit...]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/03/6-chrome-extensions-thatll-keep-sane-election-year/</link>
             <guid isPermaLink="false">020aa5ad-fa66-4ecd-b0b7-d662a22b9f0a</guid>
             <pubDate>Tue, 01 Mar 2016 21:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix trying to keep me inside as better weather hits]]></title>
-            <description><![CDATA[<article><h1>Netflix trying to keep me inside as better weather hits</h1><p>March is going to be a bittersweet month for Netflix subscribers everywhere. We're losing Jumanji, Gone in 60 Seconds, Hart's War, Men in Black II, the TEDTalks series, and Johnny Dangerously, and we'll miss them all dearly. But where there's loss, there's growth. With death, there's life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b730579dddaaf0a96b8dc130fd1dfa7925ac4839.jpg"></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/netflix-trying-to-keep-me-inside-as-better-weather-hits/index.html</link>
-            <guid isPermaLink="false">17ba8c96-5539-4b5a-9ce7-68657b62f59c</guid>
-            <pubDate>Tue, 01 Mar 2016 17:59:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
