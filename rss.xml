@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 06:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 06:01:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
             <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dammit...]]></title>
+            <description><![CDATA[<article><h1>Dammit...</h1><p>Physical exercise is good for your brain. And I mean really good for it. The brain burns a ton of energy during exercise, much more, even, than if you were thinking really hard about something really complicated. New research has discovered just what the brain does with all that extra energy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7e745156681fb88cdf63e61f8a59db122930b44.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/dammit/index.html</link>
+            <guid isPermaLink="false">96dbef06-8886-4b6f-ae68-3ee0bf213114</guid>
+            <pubDate>Thu, 03 Mar 2016 06:00:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I found my next home.... Can I put it in your backyard?]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/netflix-trying-to-keep-me-inside-as-better-weather-hits/index.html</link>
             <guid isPermaLink="false">17ba8c96-5539-4b5a-9ce7-68657b62f59c</guid>
             <pubDate>Tue, 01 Mar 2016 17:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spend your money wisely!]]></title>
-            <description><![CDATA[<article><h1>Spend your money wisely!</h1><p>When you work hard every single day and there's only so much money left after your regular expenses, you have to make certain it's well spent. Spend your limited funds on what science says will make you happy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df0be91553ddf695b25d4aa756ea93fb56862dd0.jpg"></article>]]></description>
-            <link>http://www.entrepreneur.com/article/271463</link>
-            <guid isPermaLink="false">aaa7a908-f172-4d47-b3b0-42220fc10ad2</guid>
-            <pubDate>Tue, 01 Mar 2016 17:31:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
