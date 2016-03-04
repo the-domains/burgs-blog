@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 07:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 07:47:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
             <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shoes....]]></title>
+            <description><![CDATA[<article><h1>Shoes....</h1><p>The Air Jordan 17 retro begins in earnest this year, following the occasional one-off launch as part of a Countdown Pack. Yes, this time it's en masse, and it's starting with arguably the model's best colorway. The Air Jordan 17 Copper returns beautifully faithful to the original, as black croc-embossed leather around the heel contrasts a white leather upper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a01fa372c275a5a408a18626f571d383d6f66fbe.jpg"></article>]]></description>
+            <link>http://www.nikeblog.com/2016/03/01/air-jordan-17-copper-release-draws-near/</link>
+            <guid isPermaLink="false">6c9806cd-61e8-40c7-82c8-2b2ad332cb86</guid>
+            <pubDate>Fri, 04 Mar 2016 07:45:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who wants to pay off my debt?]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.highsnobiety.com/2016/02/29/crying-jordan-meme-mini-doc-trailer/</link>
             <guid isPermaLink="false">9a209f49-0e5b-40c9-b55e-3b8c82d4085e</guid>
             <pubDate>Wed, 02 Mar 2016 23:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family]]></title>
-            <description><![CDATA[<article><h1>Family</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acd5761cc194c5476d800b12095a307cf5849591.png"></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/family/index.html</link>
-            <guid isPermaLink="false">24addeb0-6f5a-48a8-9f26-9c59aa23114f</guid>
-            <pubDate>Wed, 02 Mar 2016 23:55:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
