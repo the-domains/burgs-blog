@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 07:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 07:41:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Who wants to pay off my debt?]]></title>
+            <description><![CDATA[<article><h1>Who wants to pay off my debt?</h1><p>The average American has a lot of debt: $15,355 in credit card debt, $26,530 in auto loans, and a mortgage of $165,892, according to the financial website NerdWallet. And those who carry student loans have an average balance of $47,712.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6174fd60a8e7e1a1ea3a338d468d7b3b8e4ec2a4.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3057317/lessons-learned/how-paying-off-all-my-debt-changed-my-life?partner=rss</link>
+            <guid isPermaLink="false">e102766a-3729-4aa4-82b8-382485effa2a</guid>
+            <pubDate>Fri, 04 Mar 2016 07:40:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yes sir]]></title>
-            <description><![CDATA[<article><h1>Yes sir</h1><p>Earlier this week, Top Dawg CEO Anthony Tiffith shared a photo on Instagram, hinting that a surprise TDE release would hit the web sometime this week. It looks like he wasn't fibbing, as just hours ago Kendrick Lamar's surprise album untitled unmastered. hit streaming platforms and iTunes following a tweet from the Compton MC himself.</p><img src="http://static.highsnobiety.com/wp-content/uploads/2016/03/04080546/kendrick-lamar-untitled-unmastered-0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Yes sir</h1><p>Earlier this week, Top Dawg CEO Anthony Tiffith shared a photo on Instagram, hinting that a surprise TDE release would hit the web sometime this week. It looks like he wasn't fibbing, as just hours ago Kendrick Lamar's surprise album untitled unmastered. hit streaming platforms and iTunes following a tweet from the Compton MC himself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d90c4fb4884df2c94ea78e2363c642a70c77ba50.jpg"></article>]]></description>
             <link>http://www.highsnobiety.com/2016/03/04/kendrick-lamar-untitled-unmastered/</link>
             <guid isPermaLink="false">0d43735c-f4ea-4384-94db-ee117673fd23</guid>
             <pubDate>Fri, 04 Mar 2016 07:30:59 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/family/index.html</link>
             <guid isPermaLink="false">24addeb0-6f5a-48a8-9f26-9c59aa23114f</guid>
             <pubDate>Wed, 02 Mar 2016 23:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The future is coming.... Can't wait!]]></title>
-            <description><![CDATA[<article><h1>The future is coming.... Can't wait!</h1><p>Like anyone who's been paying attention, AT&T knows that the future of TV lies beyond the cable box and satellite dish. To make sure it keeps up, the company said today that it will begin letting you buy and watch cable TV on whatever screen you want with nothing more than an Internet connection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d94279edaeffc8cde8d0b741902697ca03f0feed.jpg"></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/the-future-is-coming-cant-wait/index.html</link>
-            <guid isPermaLink="false">770f0578-630f-41ca-bd73-6d015cdd86f9</guid>
-            <pubDate>Wed, 02 Mar 2016 19:33:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
