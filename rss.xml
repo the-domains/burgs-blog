@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 17:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 17:43:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
             <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Somebody tell my wife about this....]]></title>
+            <description><![CDATA[<article><h1>Somebody tell my wife about this....</h1><p>Tailor & Spruce's Premium Full Grooming Kit | Highsnobiety</p><img src="http://static.highsnobiety.com/wp-content/uploads/2016/03/03165646/tailor-spruce-trove-grooming-kit-00.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/somebody-tell-my-wife-about-this/index.html</link>
+            <guid isPermaLink="false">71271ea9-16f1-4997-8361-395aabbb9cc5</guid>
+            <pubDate>Fri, 04 Mar 2016 17:40:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/cool-way-to-share-music-with-friends/index.html</link>
             <guid isPermaLink="false">4aa57f41-303d-4cd7-bcec-21d3664477d5</guid>
             <pubDate>Thu, 03 Mar 2016 15:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dammit...]]></title>
-            <description><![CDATA[<article><h1>Dammit...</h1><p>Physical exercise is good for your brain. And I mean really good for it. The brain burns a ton of energy during exercise, much more, even, than if you were thinking really hard about something really complicated. New research has discovered just what the brain does with all that extra energy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7e745156681fb88cdf63e61f8a59db122930b44.jpg"></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/dammit/index.html</link>
-            <guid isPermaLink="false">96dbef06-8886-4b6f-ae68-3ee0bf213114</guid>
-            <pubDate>Thu, 03 Mar 2016 06:00:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
