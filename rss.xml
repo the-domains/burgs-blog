@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 07:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 17:05:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
             <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/burgs-blog/lessiframe-width560-height315-srchttpswwwyoutubeco/index.html</link>
+            <guid isPermaLink="false">def5c0b3-692d-4c0d-ad06-bb30ce4643c6</guid>
+            <pubDate>Fri, 04 Mar 2016 17:05:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Please get this done LeBron]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/dammit/index.html</link>
             <guid isPermaLink="false">96dbef06-8886-4b6f-ae68-3ee0bf213114</guid>
             <pubDate>Thu, 03 Mar 2016 06:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I found my next home.... Can I put it in your backyard?]]></title>
-            <description><![CDATA[<article><h1>I found my next home.... Can I put it in your backyard?</h1><p>EBS Block 'Expandable Building System' Block is a portable and sustainable living solution created from a shipping container.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81f665cc3debfaf656f8439ccf5635ea760b2298.png"></article>]]></description>
-            <link>http://ebs-block.com/welcome-eng.html</link>
-            <guid isPermaLink="false">16b644c8-4bcc-4a48-b939-1f6b3494bab1</guid>
-            <pubDate>Thu, 03 Mar 2016 06:00:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
