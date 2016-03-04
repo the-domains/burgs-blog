@@ -1,7 +1,7 @@
 name: "Burg's Blog"
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.1197637
+typography_spectrum: 0.05761
 collections:
   - index:
       path: /
