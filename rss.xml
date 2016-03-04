@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 18:58:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/burgs-blog/c4059d31-9219-4860-b745-92bb7dd254b3/index.html</link>
+            <guid isPermaLink="false">c4059d31-9219-4860-b745-92bb7dd254b3</guid>
+            <pubDate>Fri, 04 Mar 2016 18:53:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Air Jordan 4 "Gold"]]></title>
-            <description><![CDATA[<article><h1>Air Jordan 4 "Gold"</h1><p>If you were on the SNKRS app earlier today, then you might've caught a Gold Air Jordan 4 with text that read "Reserved-Unlock" above. The sneaker world is stumped after noticing an all Gold Air Jordan 4 on the SNKRS app earlier this morning.</p><img src="http://www.modern-notoriety.com/wp-content/uploads/2016/03/gold-jordan-4-768x449.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Air Jordan 4 "Gold"</h1><p>If you were on the SNKRS app earlier today, then you might've caught a Gold Air Jordan 4 with text that read "Reserved-Unlock" above. The sneaker world is stumped after noticing an all Gold Air Jordan 4 on the SNKRS app earlier this morning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beece46a1d1813aec0701e87e1242ba1273178e9.jpg"></article>]]></description>
             <link>http://www.modern-notoriety.com/air-jordan-4-gold/</link>
             <guid isPermaLink="false">cecff802-eacc-469e-a194-c2b045d67e06</guid>
             <pubDate>Fri, 04 Mar 2016 18:50:45 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.fastcompany.com/3057317/lessons-learned/how-paying-off-all-my-debt-changed-my-life?partner=rss</link>
             <guid isPermaLink="false">e102766a-3729-4aa4-82b8-382485effa2a</guid>
             <pubDate>Fri, 04 Mar 2016 07:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yes sir]]></title>
-            <description><![CDATA[<article><h1>Yes sir</h1><p>Earlier this week, Top Dawg CEO Anthony Tiffith shared a photo on Instagram, hinting that a surprise TDE release would hit the web sometime this week. It looks like he wasn't fibbing, as just hours ago Kendrick Lamar's surprise album untitled unmastered. hit streaming platforms and iTunes following a tweet from the Compton MC himself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d90c4fb4884df2c94ea78e2363c642a70c77ba50.jpg"></article>]]></description>
-            <link>http://www.highsnobiety.com/2016/03/04/kendrick-lamar-untitled-unmastered/</link>
-            <guid isPermaLink="false">0d43735c-f4ea-4384-94db-ee117673fd23</guid>
-            <pubDate>Fri, 04 Mar 2016 07:30:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
