@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 07:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 07:51:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
             <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Please get this done LeBron]]></title>
+            <description><![CDATA[<h1>Please get this done LeBron</h1>]]></description>
+            <link>https://thegrid.ai/burgs-blog/please-get-this-done-lebron/index.html</link>
+            <guid isPermaLink="false">fc366046-19a0-41c2-8dc3-b555a6f78d80</guid>
+            <pubDate>Fri, 04 Mar 2016 07:50:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shoes....]]></title>
@@ -68,13 +75,6 @@
             <link>http://ebs-block.com/welcome-eng.html</link>
             <guid isPermaLink="false">16b644c8-4bcc-4a48-b939-1f6b3494bab1</guid>
             <pubDate>Thu, 03 Mar 2016 06:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Probably the funniest of all time]]></title>
-            <description><![CDATA[<article><h1>Probably the funniest of all time</h1><p>During this year's NBA All-Star Weekend in Toronto, STASHED teamed up with HTC for their first-ever mini-documentary - the subject matter, the ever-popular "crying Jordan" meme. STASHED rounded up some of the league's most notable ballers to get their thoughts on the hilarious image.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e708d27854d9c6bade57398c077108e58ba231c.jpg"></article>]]></description>
-            <link>http://www.highsnobiety.com/2016/02/29/crying-jordan-meme-mini-doc-trailer/</link>
-            <guid isPermaLink="false">9a209f49-0e5b-40c9-b55e-3b8c82d4085e</guid>
-            <pubDate>Wed, 02 Mar 2016 23:56:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
