@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 23:13:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
             <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My view for the weekend.... Could be worse I guess]]></title>
+            <description><![CDATA[<article><h1>My view for the weekend.... Could be worse I guess</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f3ba696-9b84-4dbe-8f6f-42501c88eefe.png"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/my-view-for-the-weekend-could-be-worse-i-guess/index.html</link>
+            <guid isPermaLink="false">617f18bc-19c5-4290-b31d-e2a98539b485</guid>
+            <pubDate>Fri, 04 Mar 2016 23:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-17-copper-release-draws-near/</link>
             <guid isPermaLink="false">6c9806cd-61e8-40c7-82c8-2b2ad332cb86</guid>
             <pubDate>Fri, 04 Mar 2016 07:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who wants to pay off my debt?]]></title>
-            <description><![CDATA[<article><h1>Who wants to pay off my debt?</h1><p>The average American has a lot of debt: $15,355 in credit card debt, $26,530 in auto loans, and a mortgage of $165,892, according to the financial website NerdWallet. And those who carry student loans have an average balance of $47,712.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6174fd60a8e7e1a1ea3a338d468d7b3b8e4ec2a4.jpg"></article>]]></description>
-            <link>http://www.fastcompany.com/3057317/lessons-learned/how-paying-off-all-my-debt-changed-my-life?partner=rss</link>
-            <guid isPermaLink="false">e102766a-3729-4aa4-82b8-382485effa2a</guid>
-            <pubDate>Fri, 04 Mar 2016 07:40:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
