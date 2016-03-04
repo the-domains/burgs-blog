@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 15:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 00:52:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This is going to be funny!]]></title>
+            <description><![CDATA[<article><h1>This is going to be funny!</h1><p>The fact that we're finally getting an all-female Ghostbusters is kind of crazy. But the fact that it's coming out in July and we heretofore hadn't seen any footage of the ghost-bustin' ladies-Melissa McCarthy, Leslie Jones, Kate McKinnon, and Kristen Wiig-is just insane. Well, now that wait is over. Behold!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33bc72d066bffe7e102906f03b0319d2b3323467.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/this-is-going-to-be-funny/index.html</link>
+            <guid isPermaLink="false">31aff183-aed3-492a-b933-637e9ed5b4bc</guid>
+            <pubDate>Fri, 04 Mar 2016 00:51:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cool way to share music with friends]]></title>
-            <description><![CDATA[<article><h1>Cool way to share music with friends</h1><p>Love it or hate it, there's no denying the screen on the Apple Watch isn't what you'd call "big". In fact, it's rather small. Tiny, even. A Tiny Game of Pong brings the classic '70s arcade hit to Apple's high-tech timepiece.</p><img src="http://uncrate.com/p/2016/02/tiny-pong-apple-watch.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cool way to share music with friends</h1><p>Love it or hate it, there's no denying the screen on the Apple Watch isn't what you'd call "big". In fact, it's rather small. Tiny, even. A Tiny Game of Pong brings the classic '70s arcade hit to Apple's high-tech timepiece.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a3fa30af85f355997f26ad6b91cbdb6ab83d095.jpg"></article>]]></description>
             <link>https://thegrid.ai/burgs-blog/cool-way-to-share-music-with-friends/index.html</link>
             <guid isPermaLink="false">4aa57f41-303d-4cd7-bcec-21d3664477d5</guid>
             <pubDate>Thu, 03 Mar 2016 15:43:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/this-is-a-picture-of-young-stots-mixtape-coming-soon/index.html</link>
             <guid isPermaLink="false">c865c51b-1951-47c7-a9bd-cc3462f4b350</guid>
             <pubDate>Wed, 02 Mar 2016 03:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If you're like me you're already sick of the election... Check these chrome extensions out]]></title>
-            <description><![CDATA[<article><h1>If you're like me you're already sick of the election... Check these chrome extensions out</h1><p>This past weekend, the merrymakers at Last Week Tonight introduced a novel Chrome extension that changes every mention of "Donald Trump" to "Donald Drumpf," his original ancestral surname. It's fun! You should install it, along with these other politically minded Internet add-ons that will help you make it to November with your sanity intact.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fadecb0159931a72d348555e0c245b9b3633393.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/03/6-chrome-extensions-thatll-keep-sane-election-year/</link>
-            <guid isPermaLink="false">020aa5ad-fa66-4ecd-b0b7-d662a22b9f0a</guid>
-            <pubDate>Tue, 01 Mar 2016 21:29:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
