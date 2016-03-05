@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 19:53:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/burgs-blog/this-is-going-to-be-funny/index.html</link>
             <guid isPermaLink="false">31aff183-aed3-492a-b933-637e9ed5b4bc</guid>
             <pubDate>Fri, 04 Mar 2016 04:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shoes... Definitely need to get myself a pair of these]]></title>
-            <description><![CDATA[<article><h1>Shoes... Definitely need to get myself a pair of these</h1><p>You already know that the Air Jordan 4 Premium is set to drop in a blacked-out edition replete with croc-style scales and faux pony hair this month. But that may not even be the most eye-popping colorway of the upgraded model. That title would belong to the "Snakeskin" edition, rumored for a summer launch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e30e9bc70f03d7942902ab9028241de8ed7de61b.jpg"></article>]]></description>
-            <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
-            <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
-            <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Looking forward to this even more now!]]></title>
@@ -68,13 +61,6 @@
             <link>https://thegrid.ai/burgs-blog/my-view-for-the-weekend-could-be-worse-i-guess/index.html</link>
             <guid isPermaLink="false">617f18bc-19c5-4290-b31d-e2a98539b485</guid>
             <pubDate>Fri, 04 Mar 2016 23:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/burgs-blog/c4059d31-9219-4860-b745-92bb7dd254b3/index.html</link>
-            <guid isPermaLink="false">c4059d31-9219-4860-b745-92bb7dd254b3</guid>
-            <pubDate>Fri, 04 Mar 2016 18:53:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
