@@ -4,7 +4,7 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 05:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 05:34:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is going to be funny!]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.nikeblog.com/2016/03/01/air-jordan-4-premium-snakeskin/</link>
             <guid isPermaLink="false">6f1e00b9-9568-4e74-b106-46562c4b5740</guid>
             <pubDate>Tue, 01 Mar 2016 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Challenge accepted]]></title>
+            <description><![CDATA[<article><h1>Challenge accepted</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ba2e977-e15c-49e4-bc53-d3f6d3c20046.png"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/challenge-accepted/index.html</link>
+            <guid isPermaLink="false">68d6f70f-e7e4-4138-abfc-797e3f55bd7c</guid>
+            <pubDate>Sat, 05 Mar 2016 05:32:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Never fails]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/a10d04d2-4f0a-44b0-b374-28ef856403bd/index.html</link>
             <guid isPermaLink="false">a10d04d2-4f0a-44b0-b374-28ef856403bd</guid>
             <pubDate>Fri, 04 Mar 2016 17:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/burgs-blog/lessiframe-width560-height315-srchttpswwwyoutubeco/index.html</link>
-            <guid isPermaLink="false">def5c0b3-692d-4c0d-ad06-bb30ce4643c6</guid>
-            <pubDate>Fri, 04 Mar 2016 17:05:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
