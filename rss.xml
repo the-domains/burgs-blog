@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 22:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 01:03:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can't wait for this!]]></title>
+            <description><![CDATA[<article><h1>Can't wait for this!</h1><p>www.fastcodesign.com/3057483/the-next-big-tech-revolution-will-be-in-your-ear/3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dea4cab4044ab60904816528d89826f37381e2d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/cant-wait-for-this/index.html</link>
+            <guid isPermaLink="false">f635f377-916e-43b2-a2f0-681b81ded187</guid>
+            <pubDate>Tue, 08 Mar 2016 01:02:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Future And Jonah Hill Do 'Jumpman' On 'Saturday Night Live [VIDEO]]></title>
             <description><![CDATA[<article><h1>Future And Jonah Hill Do 'Jumpman' On 'Saturday Night Live [VIDEO</h1><p>When it was announced that Future would be the musical guest on a Jonah Hill hosted episode of Saturday Night Live, there was concern that Future would attempt to do some acting. But what we really should have been worried about is Jonah Hill doing some rapping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/060514f56640bade1303dff44510ac857078a78e.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/challenge-accepted/index.html</link>
             <guid isPermaLink="false">68d6f70f-e7e4-4138-abfc-797e3f55bd7c</guid>
             <pubDate>Sat, 05 Mar 2016 05:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Never fails]]></title>
-            <description><![CDATA[<article><h1>Never fails</h1><p>If Trump gets elected...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1dc1cdbb618d20ae271ea9732448032e4096919.jpg"></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/never-fails/index.html</link>
-            <guid isPermaLink="false">366a1041-7e4d-4959-8222-096a65bb980a</guid>
-            <pubDate>Sat, 05 Mar 2016 05:32:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
