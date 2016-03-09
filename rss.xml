@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 04:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 04:52:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let the Madness begin!]]></title>
+            <description><![CDATA[<article><h1>Let the Madness begin!</h1><p>March Madness Is Coming To Apple TV, With Some Special Features | Fast Company | Business + Innovation</p></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/let-the-madness-begin/index.html</link>
+            <guid isPermaLink="false">a7c933f1-d2cb-40d8-be20-7e1c6ff66030</guid>
+            <pubDate>Wed, 09 Mar 2016 04:51:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yes....]]></title>
             <description><![CDATA[<article><h1>Yes....</h1><p>Kendrick Lamar’s untitled unmastered. will get a vinyl release</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cce780d69ef02541e0726b630ff1ce84821e3a06.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/white-people/index.html</link>
             <guid isPermaLink="false">6fd5e390-1389-4eca-9e90-d29bb2e4438f</guid>
             <pubDate>Sat, 05 Mar 2016 16:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Me for sure....]]></title>
-            <description><![CDATA[<article><h1>Me for sure....</h1><p>I'd rather watch something that confuses and enrages me rather than something that regurgitates my extant belief system.</p></article>]]></description>
-            <link>https://twitter.com/TVMcGee/status/705978338809085952</link>
-            <guid isPermaLink="false">9bf9ad85-f17e-4aec-b54b-0124dd2d93d3</guid>
-            <pubDate>Sat, 05 Mar 2016 15:59:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
