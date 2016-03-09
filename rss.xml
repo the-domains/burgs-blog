@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 04:52:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yes....]]></title>
+            <description><![CDATA[<article><h1>Yes....</h1><p>Kendrick Lamar’s untitled unmastered. will get a vinyl release</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cce780d69ef02541e0726b630ff1ce84821e3a06.jpg"></article>]]></description>
+            <link>http://www.thevinylfactory.com/vinyl-factory-news/kendrick-lamar-untitled-unmastered-vinyl/</link>
+            <guid isPermaLink="false">d585188c-1b64-4b62-8abe-e40eb66aca6d</guid>
+            <pubDate>Wed, 09 Mar 2016 04:51:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can't wait for this!]]></title>
             <description><![CDATA[<article><h1>Can't wait for this!</h1><p>www.fastcodesign.com/3057483/the-next-big-tech-revolution-will-be-in-your-ear/3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dea4cab4044ab60904816528d89826f37381e2d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/TVMcGee/status/705978338809085952</link>
             <guid isPermaLink="false">9bf9ad85-f17e-4aec-b54b-0124dd2d93d3</guid>
             <pubDate>Sat, 05 Mar 2016 15:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Challenge accepted]]></title>
-            <description><![CDATA[<article><h1>Challenge accepted</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98bd5d65cee3d6560ec5336a9fa99951ddc96623.png"></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/challenge-accepted/index.html</link>
-            <guid isPermaLink="false">68d6f70f-e7e4-4138-abfc-797e3f55bd7c</guid>
-            <pubDate>Sat, 05 Mar 2016 05:32:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
