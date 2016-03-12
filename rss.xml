@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 16:02:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yes please ]]></title>
+            <description><![CDATA[<article><h1>Yes please </h1><p>Waffle Smores Are the Dessert, Breakfast, or Anytime Snack You've Been Waiting for</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26232211ddd70333d3655d46ac9dbb4cdfc8b043.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/yes-please/index.html</link>
+            <guid isPermaLink="false">01351245-b9f0-43fc-bdbf-1e93ebb54c9e</guid>
+            <pubDate>Sat, 12 Mar 2016 16:01:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andrew get ready.....]]></title>
             <description><![CDATA[<article><h1>Andrew get ready.....</h1><p>Nike SB Stefan Janoski Slip On Release Date | Nikeblog.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/338a67bc4a321eff2162107e6776da6cc4c2fd9f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/44b63ada-339f-4416-9d63-5ccbfb725add/index.html</link>
             <guid isPermaLink="false">44b63ada-339f-4416-9d63-5ccbfb725add</guid>
             <pubDate>Mon, 07 Mar 2016 21:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/burgs-blog/94ba00d1-7dca-4881-934d-78d33152930c/index.html</link>
-            <guid isPermaLink="false">94ba00d1-7dca-4881-934d-78d33152930c</guid>
-            <pubDate>Sun, 06 Mar 2016 23:26:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
