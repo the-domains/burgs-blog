@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 16:02:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hahahahahahahahahaha]]></title>
+            <description><![CDATA[<article><h1>Hahahahahahahahahaha</h1><p>Meninisms • 49.3k on Instagram: “Wow. Power move by the #Broncos picking up Uncle Rico. - episode 1 of the Meninisms podcasts drops today 👍🏼💪🏽📻🎙”</p></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/hahahahahahahahahaha/index.html</link>
+            <guid isPermaLink="false">694476e6-2561-4015-ba87-fba6899e09a7</guid>
+            <pubDate>Sat, 12 Mar 2016 16:01:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yes please ]]></title>
             <description><![CDATA[<article><h1>Yes please </h1><p>Waffle Smores Are the Dessert, Breakfast, or Anytime Snack You've Been Waiting for</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26232211ddd70333d3655d46ac9dbb4cdfc8b043.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BCateVZDBjJ/?taken-by=funniest_15seconds</link>
             <guid isPermaLink="false">ce04c5b3-b0a2-4cd1-85b3-ee5b027fe88b</guid>
             <pubDate>Mon, 07 Mar 2016 21:57:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/burgs-blog/44b63ada-339f-4416-9d63-5ccbfb725add/index.html</link>
-            <guid isPermaLink="false">44b63ada-339f-4416-9d63-5ccbfb725add</guid>
-            <pubDate>Mon, 07 Mar 2016 21:50:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
