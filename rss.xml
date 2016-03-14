@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 22:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 22:01:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why hasn't this been available since day one?]]></title>
+            <description><![CDATA[<article><h1>Why hasn't this been available since day one?</h1><p>At this point, there's very little difference between the Xbox One and the PlayStation 4. But there was one key differentiating point. Xbox gamers could only play with Xbox and PC players as Microsoft was restricting access to the multiplayer component.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8a1e1851bc5647be5601a5153ff8c6ef45228a0.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/03/14/xbox-live-now-supports-cross-platform-multiplayer-with-ps4/</link>
+            <guid isPermaLink="false">8e212fe9-1f25-4766-8db9-b43da0a66508</guid>
+            <pubDate>Mon, 14 Mar 2016 22:00:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get excited people!!]]></title>
             <description><![CDATA[<article><h1>Get excited people!!</h1><p>The Ringer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dddc3a330ed3272892036495ec100085360d8cba.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.thevinylfactory.com/vinyl-factory-news/kendrick-lamar-untitled-unmastered-vinyl/</link>
             <guid isPermaLink="false">d585188c-1b64-4b62-8abe-e40eb66aca6d</guid>
             <pubDate>Wed, 09 Mar 2016 04:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can't wait for this!]]></title>
-            <description><![CDATA[<article><h1>Can't wait for this!</h1><p>www.fastcodesign.com/3057483/the-next-big-tech-revolution-will-be-in-your-ear/3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dea4cab4044ab60904816528d89826f37381e2d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/cant-wait-for-this/index.html</link>
-            <guid isPermaLink="false">f635f377-916e-43b2-a2f0-681b81ded187</guid>
-            <pubDate>Tue, 08 Mar 2016 01:02:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
