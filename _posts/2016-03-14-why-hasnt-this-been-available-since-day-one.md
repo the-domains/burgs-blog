@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
   url: 'http://techcrunch.com'
   name: TechCrunch
-  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
   domain: techcrunch.com
 keywords:
   - xbox
@@ -29,10 +29,11 @@ app_links:
     type: android
 isBasedOnUrl: 'http://techcrunch.com/2016/03/14/xbox-live-now-supports-cross-platform-multiplayer-with-ps4/'
 title: "Why hasn't this been available since day one?"
-datePublished: '2016-03-14T22:00:59.615Z'
-dateModified: '2016-03-14T19:42:50.130Z'
+datePublished: '2016-03-14T23:02:17.120Z'
+dateModified: '2016-03-14T22:01:13.861Z'
 sourcePath: _posts/2016-03-14-why-hasnt-this-been-available-since-day-one.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
