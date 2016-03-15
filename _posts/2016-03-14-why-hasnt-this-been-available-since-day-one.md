@@ -17,8 +17,8 @@ keywords:
   - restrict
   - games
 description: ''
-datePublished: '2016-03-15T01:23:09.428Z'
-dateModified: '2016-03-15T00:44:13.576Z'
+datePublished: '2016-03-15T01:29:59.247Z'
+dateModified: '2016-03-15T01:29:38.311Z'
 author:
   - name: Romain Dillet
     url: 'http://techcrunch.com/author/romain-dillet/'
@@ -44,4 +44,4 @@ _type: MediaObject
 ---
 # Why hasn't this been available since day one?
 
-<article style=""><h1>Xbox Live now supports cross-platform multiplayer with PS4</h1><p>At this point&amp;comma; there's very little difference between the Xbox One and the PlayStation 4&amp;period; But there was one key differentiating point&amp;period; Xbox gamers could only play with Xbox and PC players as Microsoft was restricting access to the multiplayer component&amp;period;</p><img src="https://tctechcrunch2011.files.wordpress.com/2014/12/alienwareandxbox-1.jpg?w=764&amp;h=400&amp;crop=1" /></article>
+<article style=""><h1>Xbox Live now supports cross-platform multiplayer with PS4</h1><p>At this point, there's very little difference between the Xbox One and the PlayStation 4. But there was one key differentiating point. Xbox gamers could only play with Xbox and PC players as Microsoft was restricting access to the multiplayer component.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8a1e1851bc5647be5601a5153ff8c6ef45228a0.jpg" /></article>
