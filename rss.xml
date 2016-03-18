@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 02:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 01:34:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[So dope]]></title>
+            <description><![CDATA[<article><h1>So dope</h1><p>Jordan Ultra.Fly Is Officially Unveiled | Nikeblog.com</p></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/so-dope/index.html</link>
+            <guid isPermaLink="false">06f905d5-50b2-4f5e-89ec-1d446e0a56cf</guid>
+            <pubDate>Fri, 18 Mar 2016 01:33:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[They just keep getting better and better]]></title>
             <description><![CDATA[<article><h1>They just keep getting better and better</h1><p>Air Jordan 12 "Wings" | Solecollector</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/the-end-of-an-era/index.html</link>
             <guid isPermaLink="false">ce0b2955-f245-4f04-9eb1-7fdebd1dd45a</guid>
             <pubDate>Sat, 12 Mar 2016 16:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let the Madness begin!]]></title>
-            <description><![CDATA[<article><h1>Let the Madness begin!</h1><p>March Madness Is Coming To Apple TV, With Some Special Features | Fast Company | Business + Innovation</p></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/let-the-madness-begin/index.html</link>
-            <guid isPermaLink="false">a7c933f1-d2cb-40d8-be20-7e1c6ff66030</guid>
-            <pubDate>Wed, 09 Mar 2016 04:51:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
