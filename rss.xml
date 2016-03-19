@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 20:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 20:30:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lyric Speaker]]></title>
+            <description><![CDATA[<article><h1>Lyric Speaker</h1><p>歌詞が読めるスピーカー｜A speaker that displays lyrics I Music is even better when you know the lyrics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61d52c4133f34400b1bd52ba8b93e400fcb41867.jpg"></article>]]></description>
+            <link>http://lyric-speaker.com/</link>
+            <guid isPermaLink="false">ef162690-fa6d-4849-bd7f-60781e4ca122</guid>
+            <pubDate>Sat, 19 Mar 2016 20:29:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MySleepButton Lulls You to Sleep Using Cognitive Science]]></title>
             <description><![CDATA[<article><h1>MySleepButton Lulls You to Sleep Using Cognitive Science</h1><p>Android/iOS: If you struggle to fall asleep sometimes, check out this free app. MySleepButton helps knock you out by making you imagine random images. Select how much time you want the app to play, and click the Put Me to Sleep button.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8241467df13d7ea3a169aadc885aeb1d10525ff.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>urn:uuid:876e8b28-9756-4772-97b5-2153351954e8</link>
             <guid isPermaLink="false">694476e6-2561-4015-ba87-fba6899e09a7</guid>
             <pubDate>Tue, 15 Mar 2016 02:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yes please ]]></title>
-            <description><![CDATA[<article><h1>Yes please </h1><p>Waffle Smores Are the Dessert, Breakfast, or Anytime Snack You've Been Waiting for</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26232211ddd70333d3655d46ac9dbb4cdfc8b043.jpg"></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/yes-please/index.html</link>
-            <guid isPermaLink="false">01351245-b9f0-43fc-bdbf-1e93ebb54c9e</guid>
-            <pubDate>Sat, 12 Mar 2016 16:01:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
