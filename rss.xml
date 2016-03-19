@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 01:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 19:33:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/burgs-blog/a48758a3-b83b-4f78-8563-edf92d86d277/index.html</link>
+            <guid isPermaLink="false">a48758a3-b83b-4f78-8563-edf92d86d277</guid>
+            <pubDate>Sat, 19 Mar 2016 19:33:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pretty dope]]></title>
             <description><![CDATA[<article><h1>Pretty dope</h1><p>Today in New York City, Nike president and CEO Mark Parker took the stage at the brand's Innovation Summit and unveiled an eye-popping array of game-changing technologies. It's impossible to point to one that'll prove preeminent among the others, so let's just start here: the Nike HyperAdapt 1.0, the first-ever shoe to feature Nike's new adaptive lacing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3a0b3bf218430d7d6a2e2223f971074fccc6bb9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.nikeblog.com/2016/03/09/nike-sb-stefan-janoski-slip-on-release/</link>
             <guid isPermaLink="false">c6e5c701-b822-4089-b19a-88986c809869</guid>
             <pubDate>Sat, 12 Mar 2016 16:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pretty cool idea....]]></title>
-            <description><![CDATA[<article><h1>Pretty cool idea....</h1><p>Prompt Wants To Be The One Chatbot To Rule Them All | Co.Design | business + design</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b7d8786b3398735a91abb7492c35015cd5e4f77.jpg"></article>]]></description>
-            <link>http://www.fastcodesign.com/3057596/prompt-wants-to-be-the-one-chatbot-to-rule-them-all?partner=rss</link>
-            <guid isPermaLink="false">39aad38a-3a34-4d46-99aa-2b3d27195188</guid>
-            <pubDate>Sat, 12 Mar 2016 16:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
