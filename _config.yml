@@ -1,9 +1,7 @@
-favicon: null
 name: "Burg's Blog"
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.25446
+typography_spectrum: 0.08853288
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-74666702-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0
-  lightness: 0.5
   brandColors:
     - '#765D4C'
     - '#BDDED9'
     - '#0D0504'
     - '#0488C7'
     - '#80C7F1'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.4892589
-typography_spectrum: 0.08853288
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: UA-74666702-1
-  facebook: null
+purpose: []
