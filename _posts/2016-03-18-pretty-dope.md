@@ -17,8 +17,8 @@ keywords:
   - loosen
   - innovation
 description: "Today in New York City, Nike president and CEO Mark Parker took the stage at the brand's Innovation Summit and unveiled an eye-popping array of game-changing technologies. It's impossible to point to one that'll prove preeminent among the others, so let's just start here: the Nike HyperAdapt 1.0, the first-ever shoe to feature Nike's new adaptive lacing."
-datePublished: '2016-03-18T01:51:41.940Z'
-dateModified: '2016-03-18T01:51:31.248Z'
+datePublished: '2016-03-19T20:15:25.580Z'
+dateModified: '2016-03-19T20:15:25.236Z'
 author:
   - name: Lucas Ehrbar
     url: 'http://www.nikeblog.com/author/lucasehr/'
