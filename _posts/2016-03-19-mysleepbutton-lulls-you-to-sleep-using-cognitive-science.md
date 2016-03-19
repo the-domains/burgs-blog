@@ -17,20 +17,20 @@ keywords:
   - fraser
   - mind
 description: 'Android/iOS: If you struggle to fall asleep sometimes, check out this free app. MySleepButton helps knock you out by making you imagine random images. Select how much time you want the app to play, and click the Put Me to Sleep button.'
-datePublished: '2016-03-19T20:28:44.575Z'
-dateModified: '2016-03-19T20:28:42.436Z'
+datePublished: '2016-03-19T20:30:23.887Z'
+dateModified: '2016-03-19T20:28:52.621Z'
 author: []
 related: []
 app_links: []
 title: MySleepButton Lulls You to Sleep Using Cognitive Science
+sourcePath: _posts/2016-03-19-mysleepbutton-lulls-you-to-sleep-using-cognitive-science.md
+published: true
 authors: []
 publisher:
   name: Lifehacker
   domain: lifehacker.com
   url: 'http://lifehacker.com'
   favicon: 'https://i.kinja-img.com/gawker-media/image/upload/s--N2eqEvT8--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/u0939doeuioaqhspkjyc.png'
-sourcePath: _posts/2016-03-19-mysleepbutton-lulls-you-to-sleep-using-cognitive-science.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
