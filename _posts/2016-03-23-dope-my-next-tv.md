@@ -17,8 +17,8 @@ keywords:
   - lifelike
   - wi-fi
 description: 'Vizio’s Brilliant, Affordable HDR Sets Come With Their Own Tablets | WIRED'
-datePublished: '2016-03-23T00:48:37.164Z'
-dateModified: '2016-03-23T00:41:58.647Z'
+datePublished: '2016-03-23T00:49:02.086Z'
+dateModified: '2016-03-23T00:48:42.626Z'
 author:
   - name: Tim Moynihan
     url: 'http://www.wired.com/author/tim-moynihan/'
@@ -40,6 +40,6 @@ _type: MediaObject
 ---
 # Dope! My next tv..
 
-<article style=""><h1>Vizio's Brilliant, Affordable HDR Sets Come With Their Own Tablets</h1><p>Vizio has been owning the home entertainment market lately by selling excellent televisions for bargain prices, putting sub-$1,000 price tags on great sets with all the latest tech packed inside. The company is still at it: Vizio's new 2016 P Series of TVs offer the same features found in the company's super-expensive Reference Series, but at more affordable pricing that starts at $1,000.</p><img src="http://www.wired.com/wp-content/uploads/2016/03/viziocast-lead-ft-1200x630.jpg" /></article>
+<article style=""><h1>Vizio's Brilliant, Affordable HDR Sets Come With Their Own Tablets</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/876df3ee32a69fc422c0d5f56db930c9c9b5ce70.jpg" /></article>
 
 Vizio's Brilliant, Affordable HDR Sets Come With Their Own Tablets | WIRED
