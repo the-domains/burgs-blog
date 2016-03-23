@@ -17,8 +17,8 @@ keywords:
   - lifelike
   - wi-fi
 description: 'Vizio’s Brilliant, Affordable HDR Sets Come With Their Own Tablets | WIRED'
-datePublished: '2016-03-23T00:49:02.086Z'
-dateModified: '2016-03-23T00:48:42.626Z'
+datePublished: '2016-03-23T12:51:37.160Z'
+dateModified: '2016-03-23T00:49:09.572Z'
 author:
   - name: Tim Moynihan
     url: 'http://www.wired.com/author/tim-moynihan/'
