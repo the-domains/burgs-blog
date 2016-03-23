@@ -17,8 +17,8 @@ keywords:
   - loosen
   - innovation
 description: ''
-datePublished: '2016-03-20T14:40:31.466Z'
-dateModified: '2016-03-20T14:40:20.874Z'
+datePublished: '2016-03-23T00:42:33.957Z'
+dateModified: '2016-03-20T14:40:36.267Z'
 author:
   - name: Lucas Ehrbar
     url: 'http://www.nikeblog.com/author/lucasehr/'
