@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Tim Moynihan
-    url: 'http://www.wired.com/author/tim-moynihan/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.wired.com'
-  name: WIRED
-  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
-  domain: www.wired.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.wired.com/2016/03/vizio-p-series-hdr/'
+inLanguage: en
+starred: false
 keywords:
   - vizio
   - app
@@ -21,17 +17,23 @@ keywords:
   - lifelike
   - wi-fi
 description: 'Vizio’s Brilliant, Affordable HDR Sets Come With Their Own Tablets | WIRED'
-inLanguage: en
+datePublished: '2016-03-23T00:41:51.658Z'
+dateModified: '2016-03-23T00:38:41.013Z'
+author:
+  - name: Tim Moynihan
+    url: 'http://www.wired.com/author/tim-moynihan/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.wired.com/2016/03/vizio-p-series-hdr/'
 title: 'Dope! My next tv..'
-datePublished: '2016-03-23T00:38:32.797Z'
-dateModified: '2016-03-23T00:23:36.333Z'
 sourcePath: _posts/2016-03-23-dope-my-next-tv.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: WIRED
+  domain: www.wired.com
+  url: 'http://www.wired.com'
+  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
