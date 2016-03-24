@@ -4,15 +4,8 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 04:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 04:50:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Support a Utah company!]]></title>
-            <description><![CDATA[<article><h1>Support a Utah company!</h1><p>Luminoodle COLOR & BASECAMP Portable Light Ropes</p></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/support-a-utah-company/index.html</link>
-            <guid isPermaLink="false">84e806b0-898d-49be-8193-9c77b5f530f5</guid>
-            <pubDate>Thu, 24 Mar 2016 04:51:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Seems kind of cool...]]></title>
             <description><![CDATA[<article><h1>Seems kind of cool...</h1><p>Emergence - A Game of Teamwork and Deception</p></article>]]></description>
@@ -75,6 +68,13 @@
             <link>urn:uuid:706f5436-0bb1-4ffa-944d-a0d1a1399b61</link>
             <guid isPermaLink="false">06f905d5-50b2-4f5e-89ec-1d446e0a56cf</guid>
             <pubDate>Mon, 21 Mar 2016 02:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[They just keep getting better and better]]></title>
+            <description><![CDATA[<article><h1>They just keep getting better and better</h1><p>Air Jordan 12 "Wings" | Solecollector</p></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/they-just-keep-getting-better-and-better/index.html</link>
+            <guid isPermaLink="false">3c0d7e88-4359-4c71-8fcd-6a2c87f2b1ab</guid>
+            <pubDate>Tue, 15 Mar 2016 02:50:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
