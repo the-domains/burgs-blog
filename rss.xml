@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 04:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 21:58:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[More on Silicon Valley, and the state of comedy today. Fascinating ]]></title>
+            <description><![CDATA[<article><h1>More on Silicon Valley, and the state of comedy today. Fascinating </h1><p>The games begin-as they so often do-with a poop joke. ¶ It's a late-January morning and we're on a giant back-lot soundstage in Los Angeles, where cast members of HBO's dot-comedy Silicon Valley are hunched over their laptops, tossing out beta-male insults.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c17e20f7285176eaf7b07c2a19967bdce83c905c.jpg"></article>]]></description>
+            <link>urn:uuid:9758e2e2-4b4a-446c-9220-0f9e52d23cc0</link>
+            <guid isPermaLink="false">d4b2a307-398b-4940-b091-7c2d41dc501b</guid>
+            <pubDate>Thu, 24 Mar 2016 21:58:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Holy $#!+... Much different than the one I used to drive ]]></title>
             <description><![CDATA[<article><h1>Holy $#!+... Much different than the one I used to drive </h1><p>Lincoln's theme of "quiet luxury" continues with a concept that previews a next generation Navigator. The large luxury sport ute has lost a bit of its market to the Cadillac Escalade in recent years, but that may soon change if Lincoln has its way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c59712710df356b384e64bfdaafe6c914c2f7245.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://lifehacker.com/mysleepbutton-lulls-you-to-sleep-using-cognitive-scienc-1765684510</link>
             <guid isPermaLink="false">ccf72304-b0bd-4bad-a9a0-eddd792df4df</guid>
             <pubDate>Sat, 19 Mar 2016 20:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/burgs-blog/a48758a3-b83b-4f78-8563-edf92d86d277/index.html</link>
-            <guid isPermaLink="false">a48758a3-b83b-4f78-8563-edf92d86d277</guid>
-            <pubDate>Sat, 19 Mar 2016 19:33:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
