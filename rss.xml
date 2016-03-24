@@ -4,8 +4,22 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 04:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 04:51:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I get more excited every day. Hilarious]]></title>
+            <description><![CDATA[<article><h1>I get more excited every day. Hilarious</h1><p>Just as Mike Judge savaged corporate life with his movie Office Space, his TV series Silicon Valley takes no prisoners in lampooning startup culture. Now, as the show gets ready to head into its third season, its stars (Thomas Middleditch, T.J. Miller, Kumail Nanjiani, Martin Starr, and Zach Woods) are also making their first WIRED cover appearances.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eacf42bc69f01b1a2907fdd633cfbc174f9d276f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/i-get-more-excited-every-day-hilarious/index.html</link>
+            <guid isPermaLink="false">1f9ccee0-978b-4aac-a28c-564393a7bdb3</guid>
+            <pubDate>Thu, 24 Mar 2016 04:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Support a Utah company!]]></title>
+            <description><![CDATA[<article><h1>Support a Utah company!</h1><p>Luminoodle COLOR & BASECAMP Portable Light Ropes</p></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/support-a-utah-company/index.html</link>
+            <guid isPermaLink="false">84e806b0-898d-49be-8193-9c77b5f530f5</guid>
+            <pubDate>Thu, 24 Mar 2016 04:51:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Seems kind of cool...]]></title>
             <description><![CDATA[<article><h1>Seems kind of cool...</h1><p>Emergence - A Game of Teamwork and Deception</p></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.nikeblog.com/2016/03/16/nike-hyperadapt-1-0-auto-lacing/</link>
             <guid isPermaLink="false">42318d8c-6bea-4856-a722-a6c27e048cae</guid>
             <pubDate>Wed, 23 Mar 2016 00:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[So dope]]></title>
-            <description><![CDATA[<article><h1>So dope</h1><p>Jordan Ultra.Fly Is Officially Unveiled | Nikeblog.com</p></article>]]></description>
-            <link>urn:uuid:706f5436-0bb1-4ffa-944d-a0d1a1399b61</link>
-            <guid isPermaLink="false">06f905d5-50b2-4f5e-89ec-1d446e0a56cf</guid>
-            <pubDate>Mon, 21 Mar 2016 02:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[They just keep getting better and better]]></title>
-            <description><![CDATA[<article><h1>They just keep getting better and better</h1><p>Air Jordan 12 "Wings" | Solecollector</p></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/they-just-keep-getting-better-and-better/index.html</link>
-            <guid isPermaLink="false">3c0d7e88-4359-4c71-8fcd-6a2c87f2b1ab</guid>
-            <pubDate>Tue, 15 Mar 2016 02:50:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
