@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 04:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 04:56:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Holy $#!+... Much different than the one I used to drive ]]></title>
+            <description><![CDATA[<article><h1>Holy $#!+... Much different than the one I used to drive </h1><p>Lincoln's theme of "quiet luxury" continues with a concept that previews a next generation Navigator. The large luxury sport ute has lost a bit of its market to the Cadillac Escalade in recent years, but that may soon change if Lincoln has its way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c59712710df356b384e64bfdaafe6c914c2f7245.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/holy-dollar-much-different-than-the-one-i-used-to-drive/index.html</link>
+            <guid isPermaLink="false">6defcb5c-afe8-4f5d-a1e6-3b6db8ef8d1c</guid>
+            <pubDate>Thu, 24 Mar 2016 04:56:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I get more excited every day. Hilarious]]></title>
             <description><![CDATA[<article><h1>I get more excited every day. Hilarious</h1><p>Just as Mike Judge savaged corporate life with his movie Office Space, his TV series Silicon Valley takes no prisoners in lampooning startup culture. Now, as the show gets ready to head into its third season, its stars (Thomas Middleditch, T.J. Miller, Kumail Nanjiani, Martin Starr, and Zach Woods) are also making their first WIRED cover appearances.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eacf42bc69f01b1a2907fdd633cfbc174f9d276f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/a48758a3-b83b-4f78-8563-edf92d86d277/index.html</link>
             <guid isPermaLink="false">a48758a3-b83b-4f78-8563-edf92d86d277</guid>
             <pubDate>Sat, 19 Mar 2016 19:33:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pretty dope]]></title>
-            <description><![CDATA[<article><h1>Pretty dope</h1><p>Today in New York City, Nike president and CEO Mark Parker took the stage at the brand's Innovation Summit and unveiled an eye-popping array of game-changing technologies. It's impossible to point to one that'll prove preeminent among the others, so let's just start here: the Nike HyperAdapt 1.0, the first-ever shoe to feature Nike's new adaptive lacing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3a0b3bf218430d7d6a2e2223f971074fccc6bb9.jpg"></article>]]></description>
-            <link>http://www.nikeblog.com/2016/03/16/nike-hyperadapt-1-0-auto-lacing/</link>
-            <guid isPermaLink="false">42318d8c-6bea-4856-a722-a6c27e048cae</guid>
-            <pubDate>Wed, 23 Mar 2016 00:42:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
