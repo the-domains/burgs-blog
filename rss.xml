@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 04:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 04:51:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I really want to try this...]]></title>
+            <description><![CDATA[<article><h1>I really want to try this...</h1><p>OneBlade</p></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/i-really-want-to-try-this/index.html</link>
+            <guid isPermaLink="false">d4e821fe-88b2-4edf-bfe1-41e82fe17a3a</guid>
+            <pubDate>Fri, 25 Mar 2016 04:51:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Game changer]]></title>
             <description><![CDATA[<article><h1>Game changer</h1><p>This Amazing App Could Integrate Every Urban Transportation System—And Pay You Not To Drive | Co.Exist | ideas + impact</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://solecollector.com/news/2016/03/2016-nike-air-jordan-v-retro-black-metallic-release-date</link>
             <guid isPermaLink="false">526dfbe9-0894-4b94-9f99-aeeb5d4dfce5</guid>
             <pubDate>Tue, 22 Mar 2016 02:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lyric Speaker]]></title>
-            <description><![CDATA[<article><h1>Lyric Speaker</h1><p>This is a pretty cool idea</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61d52c4133f34400b1bd52ba8b93e400fcb41867.jpg"></article>]]></description>
-            <link>http://lyric-speaker.com/</link>
-            <guid isPermaLink="false">ef162690-fa6d-4849-bd7f-60781e4ca122</guid>
-            <pubDate>Sat, 19 Mar 2016 23:15:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
