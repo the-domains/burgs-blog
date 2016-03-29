@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 00:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 23:49:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wow this is beautiful]]></title>
+            <description><![CDATA[<article><h1>Wow this is beautiful</h1><p>Feld & Volk Atelier continue to do what they do best as they outfit the Apple Watch in carbon fiber. Aiming to elevate the wearable device from tech accessory to high-end timepiece, the creative minds behind Feld & Volk not only replaced the housing with a single piece of carbon fiber, but the side button and part of the crown as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da3fdeb48efba1ad754446f2d8f0cc6d7d955630.jpg"></article>]]></description>
+            <link>http://www.highsnobiety.com/2016/03/28/apple-watch-carbon-fiber-feld-volk/</link>
+            <guid isPermaLink="false">9b7b8cbb-0421-4b13-b888-258cc0df6f21</guid>
+            <pubDate>Tue, 29 Mar 2016 23:49:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Air conditioned bed... Sign me up ]]></title>
             <description><![CDATA[<article><h1>Air conditioned bed... Sign me up </h1><p>The Balluga smart bed is so smart, it makes every other bed look like it's just crawled out from the sea. From the active air suspension to data monitoring that means you'll be able to repeat your best night's sleep, it's sole aim is to help you sleep like a baby, night after night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec46fc774379ff7b1e7def97a15dec9a26c1fb2d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://solecollector.com/news/2016/03/black-mamba-nike-kobe-pack/kobe-2-fade-to-black</link>
             <guid isPermaLink="false">4fcba83e-a3ce-4c81-8e77-e82993f5ccbc</guid>
             <pubDate>Thu, 24 Mar 2016 04:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dope! My next tv..]]></title>
-            <description><![CDATA[<article><h1>Dope! My next tv..</h1><p>Vizio’s Brilliant, Affordable HDR Sets Come With Their Own Tablets | WIRED</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/876df3ee32a69fc422c0d5f56db930c9c9b5ce70.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/03/vizio-p-series-hdr/</link>
-            <guid isPermaLink="false">37e27ad9-5223-41f5-afd8-cbc2e1ac51bc</guid>
-            <pubDate>Wed, 23 Mar 2016 12:51:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
