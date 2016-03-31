@@ -17,8 +17,8 @@ keywords:
   - ultra-strong
   - device
 description: 'Feld & Volk Atelier continue to do what they do best as they outfit the Apple Watch in carbon fiber. Aiming to elevate the wearable device from tech accessory to high-end timepiece, the creative minds behind Feld & Volk not only replaced the housing with a single piece of carbon fiber, but the side button and part of the crown as well.'
-datePublished: '2016-03-31T02:50:39.202Z'
-dateModified: '2016-03-29T23:49:26.368Z'
+datePublished: '2016-03-31T04:01:13.436Z'
+dateModified: '2016-03-31T02:50:47.637Z'
 author: []
 related: []
 app_links: []
