@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The Home of the Titans on Instagram: “\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D They going to war.. ##yougotserved #battle #funniest15seconds From @telbreezy305 Email: funniest15seconds@yahoo.com Youtube: funniest15seconds Website: www.viralcypher.com”"
-datePublished: '2016-04-02T14:43:41.452Z'
-dateModified: '2016-04-02T14:43:29.417Z'
+datePublished: '2016-04-02T14:43:58.723Z'
+dateModified: '2016-04-02T14:43:49.542Z'
 author: []
 title: The weekend
 sourcePath: _posts/2016-04-02-the-weekend.md
