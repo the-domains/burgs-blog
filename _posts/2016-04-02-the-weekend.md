@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:3caa1bb8-b28c-42e0-8877-1c8081b058bd'
+inLanguage: null
+starred: false
+keywords: []
 description: "The Home of the Titans on Instagram: “\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D They going to war.. ##yougotserved #battle #funniest15seconds From @telbreezy305 Email: funniest15seconds@yahoo.com Youtube: funniest15seconds Website: www.viralcypher.com”"
+datePublished: '2016-04-02T14:43:41.452Z'
+dateModified: '2016-04-02T14:43:29.417Z'
 author: []
-datePublished: '2016-04-02T00:58:59.028Z'
-publisher:
-  domain: ''
-  name: ''
 title: The weekend
-dateModified: '2016-04-02T00:52:02.724Z'
 sourcePath: _posts/2016-04-02-the-weekend.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: the-weekend/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
