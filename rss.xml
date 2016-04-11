@@ -4,8 +4,22 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 14:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 14:50:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These are absolutely gorgeous]]></title>
+            <description><![CDATA[<article><h1>These are absolutely gorgeous</h1><p>The popular iPhone bottle opener case is now available for iPhone 5. The Opena for iPhone 5 is lighter and thinner than the original Opena but still just as awesome. Even the finish has been improved, now matching the new iPhone´s slate anodized finish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1049e7cf8ebd6a2197938c147fd586b9b14bc207.jpg"></article>]]></description>
+            <link>http://www.blessthisstuff.com/stuff/technology/home-audio/pavilion-speaker/</link>
+            <guid isPermaLink="false">9fb7cfc8-6413-4730-ab08-8867a6804063</guid>
+            <pubDate>Mon, 11 Apr 2016 14:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putting this here as a placeholder..]]></title>
+            <description><![CDATA[<article><h1>Putting this here as a placeholder..</h1><p>Best TED Talks | Cool Material</p></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/putting-this-here-as-a-placeholder/index.html</link>
+            <guid isPermaLink="false">e21c8b4e-62c6-4b84-95e7-96ab0277f6ee</guid>
+            <pubDate>Mon, 11 Apr 2016 14:49:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Not sure I would play with these, but they look cool.]]></title>
             <description><![CDATA[<article><h1>Not sure I would play with these, but they look cool.</h1><p>Grismont 3D Printed Irons | Uncrate</p></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/i-really-want-to-try-this/index.html</link>
             <guid isPermaLink="false">d4e821fe-88b2-4edf-bfe1-41e82fe17a3a</guid>
             <pubDate>Fri, 25 Mar 2016 04:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Game changer]]></title>
-            <description><![CDATA[<article><h1>Game changer</h1><p>This Amazing App Could Integrate Every Urban Transportation System—And Pay You Not To Drive | Co.Exist | ideas + impact</p></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/game-changer/index.html</link>
-            <guid isPermaLink="false">c748334d-a402-4b0f-98ae-e6e9fef4e5c1</guid>
-            <pubDate>Fri, 25 Mar 2016 04:51:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More on Silicon Valley, and the state of comedy today. Fascinating ]]></title>
-            <description><![CDATA[<article><h1>More on Silicon Valley, and the state of comedy today. Fascinating </h1><p>The games begin-as they so often do-with a poop joke. ¶ It's a late-January morning and we're on a giant back-lot soundstage in Los Angeles, where cast members of HBO's dot-comedy Silicon Valley are hunched over their laptops, tossing out beta-male insults.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c17e20f7285176eaf7b07c2a19967bdce83c905c.jpg"></article>]]></description>
-            <link>urn:uuid:9758e2e2-4b4a-446c-9220-0f9e52d23cc0</link>
-            <guid isPermaLink="false">d4b2a307-398b-4940-b091-7c2d41dc501b</guid>
-            <pubDate>Thu, 24 Mar 2016 21:58:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
