@@ -4,15 +4,8 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 14:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 14:50:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[These are the closet thing I have ever seen. All Chinese restaurants should use them.]]></title>
-            <description><![CDATA[<article><h1>These are the closet thing I have ever seen. All Chinese restaurants should use them.</h1><p>Rap Lyric Fortune Cookies - Cool Hunting</p></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/these-are-the-closet-thing-i-have-ever-seen-all-chinese-res/index.html</link>
-            <guid isPermaLink="false">adbca9fa-2a87-4d57-b2a2-94419984de9f</guid>
-            <pubDate>Mon, 11 Apr 2016 14:49:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[For vinyl lovers... Time to upgrade your storage!]]></title>
             <description><![CDATA[<article><h1>For vinyl lovers... Time to upgrade your storage!</h1><p>The 10 best record crates and boxes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0d1548a912872b5c3b3a2166d80e1212630e0b5.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.highsnobiety.com/2016/03/28/apple-watch-carbon-fiber-feld-volk/</link>
             <guid isPermaLink="false">9b7b8cbb-0421-4b13-b888-258cc0df6f21</guid>
             <pubDate>Thu, 31 Mar 2016 04:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made up about 10 million]]></title>
+            <description><![CDATA[<article><h1>I made up about 10 million</h1><p>Kanye West's 'The Life of Pablo' Surpasses 250 Million Streams</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afcb88e3f56cce0d46277f84040191ac047c1260.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/i-made-up-about-10-million/index.html</link>
+            <guid isPermaLink="false">6f893b16-0908-4e85-910a-f8603604901d</guid>
+            <pubDate>Thu, 31 Mar 2016 02:48:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
