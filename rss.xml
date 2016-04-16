@@ -4,15 +4,8 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 20:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 20:21:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Futuristic Turntable.. Pretty slick looking ]]></title>
-            <description><![CDATA[<article><h1>Futuristic Turntable.. Pretty slick looking </h1><p>The Atmo Sfera Platterless Turntable ($1010) was designed by a team of Italian Engineers who wanted to take the smooth, warm sound of vinyl to the next level. To start, they took a classic design and revolutionized it by concentrating on only the vital components and by using the highest-quality materials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/539d3ad1351637836bdab15009c6a86242fe3cfe.jpg"></article>]]></description>
-            <link>http://muted.com/atmo-sfera-platterless-turntable/</link>
-            <guid isPermaLink="false">187af162-83c4-4de6-8bf0-62aef51b3813</guid>
-            <pubDate>Sat, 16 Apr 2016 20:20:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Not a bad idea to have at sporting events]]></title>
             <description><![CDATA[<article><h1>Not a bad idea to have at sporting events</h1><p>Beartooth is a new comm device that uses your smartphone to contact other users even when you have no cell service. Users of Beartooth can talk to each other, text and even share locations. Thin and light it´s easy to carry around in a small pocket s</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/612bb8a341e76b2fe85b21de826f02b18dfff4ac.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/burgs-blog/not-sure-i-would-play-with-these-but-they-look-cool/index.html</link>
             <guid isPermaLink="false">8ac4de5a-ea3d-4602-bc18-9224faccb727</guid>
             <pubDate>Mon, 11 Apr 2016 14:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All Hail Kanye.... And Young Piano]]></title>
+            <description><![CDATA[<article><h1>All Hail Kanye.... And Young Piano</h1><p>The History of Kanye West's Music on Piano | Highsnobiety</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0db2251321b32bf7fb42bc60d9f9dc9ace75da44.jpg"></article>]]></description>
+            <link>https://thegrid.ai/burgs-blog/all-hail-kanye-and-young-piano/index.html</link>
+            <guid isPermaLink="false">ca113974-d970-441d-bc56-667dee0c5f09</guid>
+            <pubDate>Tue, 05 Apr 2016 23:00:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
