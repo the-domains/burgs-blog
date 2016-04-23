@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 23:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 23:15:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These are so great. I need them framed and in my house]]></title>
+            <description><![CDATA[<article><h1>These are so great. I need them framed and in my house</h1><p>I translate classic rap songs into Shakespearean-style iambic pentameter. All of the words in these poems are found in the works of Shakespeare.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00e7b406be44d49dcb3e7bcb0d36db1a6c05c56c.jpg"></article>]]></description>
+            <link>http://www.davidfbrand.com/shakespeareanrap/</link>
+            <guid isPermaLink="false">ba9aaf2c-05fa-4f64-887d-83a5ca965f15</guid>
+            <pubDate>Sat, 23 Apr 2016 23:15:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[4 Men with 4 Very Different Incomes Open Up About the Lives They Can Afford]]></title>
             <description><![CDATA[<article><h1>4 Men with 4 Very Different Incomes Open Up About the Lives They Can Afford</h1><p>The poverty line for a family of three is $20,090 a year. The median household income in America is $53,657. Politicians draw $250,000 as the line between the middle and upper classes. And the true starting point of real wealth remains a cool $1,000,000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4cbba29b16d0277dbb4c753072469c1fca66cea.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/burgs-blog/every-self-respecting-american-should-own-a-pair-of-these/index.html</link>
             <guid isPermaLink="false">201f15b3-1a52-40d4-88f4-bbbcfee3af03</guid>
             <pubDate>Mon, 11 Apr 2016 14:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's time for a new set of clubs. Who wants to buy mine?]]></title>
-            <description><![CDATA[<article><h1>It's time for a new set of clubs. Who wants to buy mine?</h1><p>Nike Golf Clubs. Nike.com</p></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/its-time-for-a-new-set-of-clubs-who-wants-to-buy-mine/index.html</link>
-            <guid isPermaLink="false">37863328-32d6-4a9b-8834-fd02b650d6bd</guid>
-            <pubDate>Mon, 11 Apr 2016 14:49:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
