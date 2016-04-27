@@ -1,5 +1,4 @@
-favicon: null
-name: "Burg's Blog"
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
@@ -10,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5
-  brandStrength: 0.4747049
+  brandStrength: 1
   lightness: 0.5
   brandColors:
     - '#111B50'
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
 analytics:
   twitter: null
   google: UA-74666702-1
   facebook: null
+favicon: null
+name: "Burg's Blog"
