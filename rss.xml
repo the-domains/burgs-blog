@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 15:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 15:35:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Build a Deck for Less Than $900]]></title>
+            <description><![CDATA[<article><h1>Build a Deck for Less Than $900</h1><p>A low-level deck beautifies your outdoor space and can increase the value of your home. And it might not be as difficult to DIY as you might think. The Home Depot Blog offers instructions on building a deck with just $900-worth of materials (as opposed to paying someone for nearly 10x that much).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7afb47397d994dfda030ae8c21bd9e7a0cd8d19.png"></article>]]></description>
+            <link>http://lifehacker.com/build-a-deck-for-less-than-900-1772564992</link>
+            <guid isPermaLink="false">24012dfe-43a5-4ca1-bd59-6e2fe8b8b04e</guid>
+            <pubDate>Thu, 28 Apr 2016 15:33:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nike SB Made Shoes That Look Like Soccer Cleats]]></title>
             <description><![CDATA[<article><h1>Nike SB Made Shoes That Look Like Soccer Cleats</h1><p>Check out this premium Janoski.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad8b1f07fd24dc5a3e72d7d2f56e8bc3a4405c9f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.blessthisstuff.com/stuff/technology/misc-gadgets/beartooth/</link>
             <guid isPermaLink="false">8cd9da60-867b-4eb8-9d4c-e0877467bb2d</guid>
             <pubDate>Sat, 16 Apr 2016 20:20:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These are absolutely gorgeous]]></title>
-            <description><![CDATA[<article><h1>These are absolutely gorgeous</h1><p>The popular iPhone bottle opener case is now available for iPhone 5. The Opena for iPhone 5 is lighter and thinner than the original Opena but still just as awesome. Even the finish has been improved, now matching the new iPhone´s slate anodized finish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1049e7cf8ebd6a2197938c147fd586b9b14bc207.jpg"></article>]]></description>
-            <link>http://www.blessthisstuff.com/stuff/technology/home-audio/pavilion-speaker/</link>
-            <guid isPermaLink="false">9fb7cfc8-6413-4730-ab08-8867a6804063</guid>
-            <pubDate>Sat, 16 Apr 2016 15:01:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
