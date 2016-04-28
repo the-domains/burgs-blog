@@ -4,8 +4,15 @@
         <description><![CDATA[Burg's Blog]]></description>
         <link>https://thegrid.ai/burgs-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 15:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 15:35:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/burgs-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Decide How Much Money Your Work-Life Balance Is Worth]]></title>
+            <description><![CDATA[<article><h1>Decide How Much Money Your Work-Life Balance Is Worth</h1><p>Everyone has a different way they defend their balance between work and life. If you've never tried to attach a dollar figure to how important that balance is to you, you might want to try.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcbb67dbeb92914db634a3f17388174d64c59e0b.jpg"></article>]]></description>
+            <link>http://lifehacker.com/decide-how-much-money-your-work-life-balance-is-worth-1773067876</link>
+            <guid isPermaLink="false">05d60073-012f-4554-a004-bdc2bd001af6</guid>
+            <pubDate>Thu, 28 Apr 2016 15:33:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dyson's First-Ever Hair Dryer Will Make All Others Look Weak]]></title>
             <description><![CDATA[<article><h1>Dyson's First-Ever Hair Dryer Will Make All Others Look Weak</h1><p>A couple years ago, Dyson's New Product Innovation team started buying up human hair, by the tress-ful. A single tress of human hair is not a large amount-it's about 1.5 inches wide and 16 inches long-but when all was said and done, Dyson engineer Annmarie Nicolson says the tech company had used 1,010 miles of human hair.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9d074b1946be63c975c1913b90c014d54741c7e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.esquire.com/lifestyle/money/a44086/four-men-four-numbers/</link>
             <guid isPermaLink="false">d761d2c4-4328-4a25-a5cf-cb810fa9549c</guid>
             <pubDate>Tue, 19 Apr 2016 23:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'll be getting one of these....]]></title>
-            <description><![CDATA[<article><h1>I'll be getting one of these....</h1><p>Tesla Model 3</p></article>]]></description>
-            <link>https://thegrid.ai/burgs-blog/ill-be-getting-one-of-these/index.html</link>
-            <guid isPermaLink="false">6d6c2a35-8eac-46b0-9416-4a97a85f86fa</guid>
-            <pubDate>Sat, 16 Apr 2016 20:20:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
